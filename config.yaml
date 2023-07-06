@@ -1,0 +1,42 @@
+baseURL: "https://www.spokeneagle.com/"
+languageCode: 'en-us'
+title: "Spoken Eagle"
+theme: 'PaperMod'
+
+
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: categories
+      pageRef: /categories
+      weight: 400
+    - name: tags
+      pageRef: /tags
+      weight: 500
+    - name: Contact
+      pageRef: /contact
+      weight: 300
+    - name: About
+      pageRef: /about
+      weight: 200
+    - name: posts
+      pageRef: /posts
+      weight: 600
+
+
+Params:
+  ShowShareButtons: true
+  ShowComments: true
+  ShowMeta: true
+  ShowActions: true
+  ShowTOC: false
+  ShowRelated: true
+  ShowReadingTime: true
+  hideSummary: true
+  ShowBreadCrumbs: true
+
+  label:
+    text: 'Spoken Eagle'
+    icon: '/logo.png'
