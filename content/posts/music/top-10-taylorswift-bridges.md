@@ -1,6 +1,6 @@
 ---
-title: "Top 10 Taylor swift Bridges"
-date: 2023-07-06T19:28:59+05:30
+title: "Top 10 Taylorswift Bridges"
+date: 2023-07-07T10:35:04+05:30
 draft: false
 cover:
     image: https://images.unsplash.com/photo-1548778052-311f4bc2b502?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80
@@ -8,7 +8,7 @@ categories: ["Music"]
 tags: ["Taylor swift", "Bridges"]
 ---
 
-### Here are 10 amazing Taylor swift bridges:  
+### Here are 10 amazing Taylor swift bridges:
 
 ###  1. All too well
 _Well, maybe we got lost in translation, maybe I asked for too much  
@@ -18,7 +18,7 @@ I remember it all too well
 And you call me up again just to break me like a promise  
 So casually cruel in the name of bein' honest  
 I'm a crumpled-up piece of paper lyin' here  
-'Cause I remember it all, all, all_  
+'Cause I remember it all, all, all_
 
 ### 2. You're losing me
 _How long could we be a sad song  
