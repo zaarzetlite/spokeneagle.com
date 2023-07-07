@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Taylorswift Bridges"
+title: "Top 10 Taylor Swift Bridges"
 date: 2023-07-07T10:35:04+05:30
 draft: false
 cover:
