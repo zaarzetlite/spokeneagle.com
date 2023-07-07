@@ -1,6 +1,6 @@
 ### Privacy Policy
 
-Effective Date: [06-07-2023]
+Effective Date: [07-07-2023]
 
 Thank you for visiting our website. This Privacy Policy explains how we collect, use, and protect your personal information when you interact with our website.
 
