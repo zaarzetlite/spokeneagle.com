@@ -1,4 +1,4 @@
-### Contact Us
+### Contact
 
 We value your feedback, suggestions, and questions. If you would like to get in touch with us, please feel free to send us an email at [insert your email address]. We will do our best to respond to your message as soon as possible.
 

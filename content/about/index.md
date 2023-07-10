@@ -1,4 +1,6 @@
-### Welcome to spokeneagle.com !
+### About
+
+Welcome to spokeneagle.com !
 
 At spokeneagle.com, we believe in the power of knowledge and the freedom of expression. Our blog is dedicated to bringing you engaging and informative content on a wide range of topics, including music, finance, economics, cybersecurity, and more.
 
