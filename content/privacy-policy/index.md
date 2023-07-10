@@ -1,4 +1,10 @@
-### Privacy Policy
+---
+title: "Privacy Policy"
+date: 2023-07-10T14:47:32+05:30
+draft: false
+hideMeta: true
+---
+
 
 Effective Date: [07-07-2023]
 

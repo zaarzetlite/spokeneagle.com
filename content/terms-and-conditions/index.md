@@ -1,3 +1,9 @@
+---
+title: "Terms and Conditions"
+date: 2023-07-10T14:48:18+05:30
+draft: false
+hideMeta: true
+---
 ### Content Disclaimer:
 
 The information provided on this blog is for informational purposes only. The content is written based on personal experiences, opinions, and research. It should not be construed as professional financial, music, or tech advice.

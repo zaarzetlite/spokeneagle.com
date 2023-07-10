@@ -1,4 +1,9 @@
-### Contact
+---
+title: "Contact"
+date: 2023-07-10T14:39:11+05:30
+draft: false
+hideMeta: true
+---
 
 We value your feedback, suggestions, and questions. If you would like to get in touch with us, please feel free to send us an email at [insert your email address]. We will do our best to respond to your message as soon as possible.
 
