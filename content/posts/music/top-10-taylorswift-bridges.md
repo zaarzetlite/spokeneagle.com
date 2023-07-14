@@ -7,6 +7,7 @@ cover:
 categories: ["Music"]
 tags: ["Taylor swift", "Bridges"]
 ---
+***
 
 ### Here are 10 amazing Taylor swift bridges:
 

@@ -8,6 +8,8 @@ tags: ["Hobbies","Summer"]
 categories: ["Cool things to try"]
 ---
 
+***
+
 ### Here are 10 summer ideas to explore
 
 _The summer season brings a sense of freedom and opportunity, making it an ideal time to explore new hobbies. Engaging in hobbies not only offers a break from routine but also provides numerous benefits for personal growth and well-being._
