@@ -41,7 +41,6 @@ Params:
   description: "Discover the latest news and trends in the world of blogging.
    Read our blog posts to learn about everything from music to finance, Tech and News. Spoken Eagle"
 
-  author: "Spoken Eagle"
 
   label:
     text: 'Spoken Eagle'
