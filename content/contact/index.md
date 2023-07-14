@@ -5,7 +5,7 @@ draft: false
 hideMeta: true
 ---
 
-We value your feedback, suggestions, and questions. If you would like to get in touch with us, please feel free to send us an email at [insert your email address]. We will do our best to respond to your message as soon as possible.
+We value your feedback, suggestions, and questions. If you would like to get in touch with us, please feel free to send us an email at zaarzet@gmail.com . We will do our best to respond to your message as soon as possible.
 
 Whether you have a topic suggestion, want to share your thoughts on an article, or have any other inquiries, we're here to listen. We appreciate your engagement and look forward to hearing from you.
 
