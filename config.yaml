@@ -15,8 +15,8 @@ menu:
     - name: tags
       pageRef: /tags
       weight: 30
-    - name: posts
-      pageRef: /posts
+    - name: Apps
+      pageRef: /apps
       weight: 40
     - name: Contact
       pageRef: /contact
@@ -24,7 +24,6 @@ menu:
     - name: About
       pageRef: /about
       weight: 60
-
 
 
 Params:
