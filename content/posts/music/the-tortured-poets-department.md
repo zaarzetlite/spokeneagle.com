@@ -1,7 +1,7 @@
 ---
 title: "All Too Curious: Unveiling the Secrets of Taylor Swift's \"The Tortured Poets Department\""
 date: 2024-02-18T20:09:11+05:30
-draft: true
+draft: false
 cover:
     image: /music/the_tortured_poets_department.jpg
     alt: "Taylor Swift-The Tortured poets department"
