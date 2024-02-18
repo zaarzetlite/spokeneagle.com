@@ -12,7 +12,7 @@ tags: ["Taylor swift","music-albums"]
 
 ## Swifties Assemble! Unraveling the Secrets of Taylor's "The Tortured Poets Department"
 
-**Calling all Swifties!** Did your heart explode along with the confetti when Taylor unveiled "The Tortured Poets Department" at the Grammys? Mine certainly did! As the April 19th release date inches closer, the anticipation crackles like static in the air. But hold on, Swifties, because the details are shrouded in mystery, and we wouldn't have it any other way. Let's put on our detective hats, grab our magnifying glasses (or metaphorical lyric microscopes), and embark on a thrilling quest to decipher the clues Taylor has scattered like breadcrumbs for her ever-astute fandom.
+**Calling all Swifties!** Did your heart explode along with the confetti when Taylor unveiled __"The Tortured Poets Department"__ at the Grammys? Mine certainly did! As the __April 19th__ release date inches closer, the anticipation crackles like static in the air. But hold on, Swifties, because the details are shrouded in mystery, and we wouldn't have it any other way. Let's put on our detective hats, grab our magnifying glasses (or metaphorical lyric microscopes), and embark on a thrilling quest to decipher the clues Taylor has scattered like breadcrumbs for her ever-astute fandom.
 
 **First stop: the cryptic title.** "The Tortured Poets Department" evokes a world brimming with literary inspiration. Could this be Taylor's most introspective album yet, where she delves into the raw emotions and captivating narratives of renowned poets? Perhaps it hints at darker themes, or maybe it's a celebration of artistic expression itself. The possibilities are endless, and the wait to unveil them is agonizingly delightful!
 
