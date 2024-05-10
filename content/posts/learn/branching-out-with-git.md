@@ -1,6 +1,6 @@
 ---
 title: "Branching Out with Git: A Developer's Tale of Triumph and Error "
-date: 2024-05-09T23:51:28+05:30
+date: 2024-05-10T17:51:28+05:30
 draft: false
 cover:
     image: /learn/branching-out-with-git/git_wizard.webp
