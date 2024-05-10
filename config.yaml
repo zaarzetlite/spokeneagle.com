@@ -3,6 +3,11 @@ languageCode: 'en-us'
 title: "Spoken Eagle"
 theme: 'PaperMod'
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      hardWraps: true
 
 menu:
   main:
