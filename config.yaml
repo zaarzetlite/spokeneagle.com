@@ -17,8 +17,8 @@ menu:
     - name: Categories
       pageRef: /categories
       weight: 20
-    - name: Tags
-      pageRef: /tags
+    - name: Create Your Article
+      pageRef: /create-your-article
       weight: 30
     - name: Apps
       pageRef: /apps
