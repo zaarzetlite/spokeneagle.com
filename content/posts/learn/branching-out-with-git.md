@@ -5,8 +5,8 @@ draft: false
 cover:
     image: /learn/branching-out-with-git/git_wizard.webp
     alt: "Git Main Image - Wizard"
-tags: ["Technology"]
-categories: ["Learn"]
+tags: ["Technology","Git","Version Control System"]
+categories: ["Learn","Technology"]
 showTOC: false
 author: "Sai Kiran Reddy Appidi"
 ---
