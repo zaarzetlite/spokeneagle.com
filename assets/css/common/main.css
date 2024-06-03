@@ -66,3 +66,11 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+/* Convert images to landscape mode */
+article img {
+    width: 100%;        /* Adjusts the width to take the full container width */
+    height: auto;       /* Scales the height automatically to maintain aspect ratio */
+    object-fit: cover;  /* Ensures the image covers the area without distortion */
+    aspect-ratio: 16 / 9; /* Forces the image to a 16:9 landscape aspect ratio */
+}
