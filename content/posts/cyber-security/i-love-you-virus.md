@@ -31,7 +31,7 @@ The virus spread via email, masquerading as a love letter or romantic message, e
 - Send copies of itself to all contacts in the victim's email address book, thus propagating further.
 
 
-![I Love You Virus](/learn/i-love-you-virus/img2.png)
+![I Love You Virus](/cyber-security/i-love-you-virus/img2.png)
 
 ### Impacts
 
@@ -62,7 +62,7 @@ The containment and eventual eradication of the "I Love You" virus involved a co
 
 By implementing a combination of these measures, the spread of the "I Love You" virus was eventually halted, and lessons learned from this incident contributed to strengthening cybersecurity practices globally.
 
-![I Love You Virus](/learn/i-love-you-virus/img3.png)
+![I Love You Virus](/cyber-security/i-love-you-virus/img3.png)
 
 ---
 
