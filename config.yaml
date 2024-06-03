@@ -14,6 +14,9 @@ menu:
     - name: Home
       pageRef: /
       weight: 10
+    - name: News
+      pageRef: /news
+      weight: 15
     - name: Categories
       pageRef: /categories
       weight: 20
@@ -23,12 +26,9 @@ menu:
     - name: Apps
       pageRef: /apps
       weight: 40
-    - name: Contact
-      pageRef: /contact
-      weight: 50
     - name: About
       pageRef: /about
-      weight: 60
+      weight: 50
 
 
 Params:
