@@ -6,7 +6,7 @@ cover:
     alt: "Mojo Programming Language"
 draft: false
 tags: ["Technology"]
-categories: ["Learn"]
+categories: ["Learn","Technology"]
 author: "Mahalakshmi Sudheshna Garre"
 
 ---

@@ -4,8 +4,8 @@ date: 2023-08-03T20:12:09+05:30
 cover:
     image: https://images.unsplash.com/photo-1639322537231-2f206e06af84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80
     alt: "Blockchain Image"
-tags: ["Blockchain", "Technology"]
-categories: ["Learn","Crypto"]
+tags: ["Blockchain","Cryptocurrency","Smart Contracts","Decentralization"]
+categories: ["Learn","Crypto","Technology"]
 draft: false
 ---
 
