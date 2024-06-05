@@ -7,7 +7,8 @@ hideMeta: true
 
 Redirecting you to news.spokeneagle.com
 
-<a href="https://news.spokeneagle.com">Click here if you are not redirected.</a> 
+<a href="https://news.spokeneagle.com">Click here if you are not redirected.</a>
 <script>
-    window.location.href = "https://news.spokeneagle.com"
+    var win = window.open("https://news.spokeneagle.com", '_blank');
+    win.focus();
 </script>
