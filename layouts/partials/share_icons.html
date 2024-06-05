@@ -12,7 +12,7 @@
 {{- $custom := false }}
 {{- $ShareButtons := (.Param "ShareButtons")}}
 {{- with $ShareButtons }}{{ $custom = true }}{{ end }}
-<div class="share_us_on" >Share us on :</div>
+<div class="share_us_on" >Share on :</div>
 <div class="share-buttons" style="border:1px solid black">
     {{- if (cond ($custom) (in $ShareButtons "twitter") (true)) }}
     <a target="_blank" rel="noopener noreferrer" aria-label="share {{ $title | plainify }} on twitter"
