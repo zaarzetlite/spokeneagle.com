@@ -85,9 +85,9 @@
     <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
-{{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-{{- partial "share_icons.html" . -}}
-{{- end }}
+<!--{{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}-->
+<!--{{- partial "share_icons.html" . -}}-->
+<!--{{- end }}-->
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
     <nav class="pagination">
@@ -108,10 +108,11 @@
         </a>
         {{- end }}
     </nav>
-    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-    {{- partial "share_icons.html" . -}}
-    {{- end }}
 </footer>
+{{- end }}
+
+{{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+{{- partial "share_icons.html" . -}}
 {{- end }}
 
 {{- end }}{{/* end profileMode */}}
