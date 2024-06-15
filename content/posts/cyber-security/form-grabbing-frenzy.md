@@ -10,7 +10,7 @@ categories: ["Cyber security","Learn","Technology"]
 showTOC: false
 author: "Lokesh Koppineedi"
 ---
-
+***
 ## The Form-Grabbing Frenzy: How Cybercriminals Are Exploiting Thread Injection in 2024
 
 2024 has seen a surge in sophisticated cyberattacks, with form-grabber malware using thread injection techniques to steal sensitive information becoming alarmingly common. Among these, the notorious FormBook malware stands out, having resurfaced in a series of global phishing campaigns.
