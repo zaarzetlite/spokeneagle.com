@@ -32,6 +32,7 @@ menu:
 
 
 Params:
+  defaultTheme: dark
   ShowShareButtons: true
   ShowComments: true
   ShowMeta: true
