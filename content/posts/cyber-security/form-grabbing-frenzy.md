@@ -5,7 +5,7 @@ draft: false
 cover:
     image: /cyber-security/form-grabbing-frenzy/cover_image.png
     alt: "Form Grabbing-Image"
-tags: ["From Grabbing","online security","phishing","social engineering"]
+tags: ["From Grabbing","Exploit","online security","phishing","social engineering"]
 categories: ["Cyber security","Learn","Technology"]
 showTOC: false
 author: "Lokesh Koppineedi"

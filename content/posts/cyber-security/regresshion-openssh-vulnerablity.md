@@ -5,7 +5,7 @@ draft: false
 cover:
     image: /cyber-security/regreSSHion-openssh-vulnerability/regresshion-vulnerablity-1.png
     alt: "RegreSSHion-OpenSSH Vulnerability-cover image"
-tags: ["OpenSSH","regreSSHion","Vulnerability"]
+tags: ["OpenSSH","regreSSHion","Exploit","Vulnerability"]
 categories: ["Cyber security","Learn","Technology"]
 showTOC: false
 author: "Lokesh Koppineedi"
