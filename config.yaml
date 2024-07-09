@@ -14,9 +14,9 @@ menu:
     - name: Home
       pageRef: /
       weight: 10
-    - name: News
-      pageRef: /news
-      weight: 15
+#    - name: News
+#      pageRef: /news
+#      weight: 15
     - name: Categories
       pageRef: /categories
       weight: 20
@@ -42,6 +42,10 @@ Params:
   ShowReadingTime: true
   hideSummary: true
   ShowBreadCrumbs: true
+  showPageNumbers: true
+#  showRssButtonInSectionTermList: false
+  cover:
+    hidden: false
   keywords: ["Spoken Eagle","News","Tech","Music","Finance","Blogging"]
   description: "Discover the latest news and trends in the world of blogging.
    Read our blog posts to learn about everything from music to finance, Tech and News. Spoken Eagle"
