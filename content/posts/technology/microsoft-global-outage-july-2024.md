@@ -3,7 +3,7 @@ title: "When the Cloud Fails: Inside Microsoft's Azure Outage and Its Far-Reachi
 date: 2024-07-19T20:39:12+05:30
 draft: false
 cover:
-    image: /cyber-security/microsoft-global-outage/blue_screen.jpeg
+    image: /technology/microsoft-global-outage/blue_screen.jpeg
     alt: "Blue Screen of Death"
 tags: ["Microsoft","Outage","Incident Response"]
 categories: ["Technology"]
