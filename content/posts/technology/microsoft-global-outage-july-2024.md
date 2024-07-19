@@ -23,6 +23,13 @@ On July 18, 2024, at 9:56 PM UTC, Microsoft Azure, one of the world's leading cl
 
 In their official statement, Microsoft acknowledged the issue and attributed it to a configuration change in Azure's backend workloads. This change disrupted the connectivity between storage and compute resources in the Central US region. This resulted in the compute resources automatically restarting when connectivity was lost to virtual disks hosted on impacted storage resources leading to connectivity failures and service interruptions across various Microsoft 365 services.
 
+
+## What is CrowdStrike and What Does it Do?
+
+- **Endpoint Security:** CrowdStrike is a cybersecurity vendor that develops software to help companies detect and block hacks. It is used by many Fortune 500 companies, including major global banks, healthcare, and energy companies.
+- **Cloud Technology:** CrowdStrike uses cloud technology to apply cyber protections to devices connected to the internet, differing from other approaches that protect back-end server systems.
+- **Deep System Access:** CrowdStrike’s software requires deep access to a computer’s operating system to scan for threats.
+
 ## CrowdStrike's Role
 
 CrowdStrike’s software, Falcon, caused a major disruption due to a faulty update. This update led to widespread IT system failures, impacting banks, airlines, and other industries globally. CrowdStrike quickly identified the issue, rolled back the update, and provided steps for affected Windows users to delete the problematic file and restore their systems. This incident highlighted the deep system access required by security software and the potential impact of faulty updates.  **The update conflicted with Microsoft’s Azure cloud services, particularly affecting Windows Virtual Machines (VMs) running the CrowdStrike Falcon agent.**
@@ -123,11 +130,6 @@ _Here's what Microsoft CEO Satya Nadella said about the incident:_
 _Here is a tweet from CrowdStrike CEO George Kurtz addressing the incident:_
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today was not a security or cyber incident. Our customers remain fully protected.<br><br>We understand the gravity of the situation and are deeply sorry for the inconvenience and disruption. We are working with all impacted customers to ensure that systems are back up and they can…</p>&mdash; George Kurtz (@George_Kurtz) <a href="https://twitter.com/George_Kurtz/status/1814316045185822981?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### What is CrowdStrike and What Does it Do?
-
-- **Endpoint Security:** CrowdStrike is a cybersecurity vendor that develops software to help companies detect and block hacks. It is used by many Fortune 500 companies, including major global banks, healthcare, and energy companies.
-- **Cloud Technology:** CrowdStrike uses cloud technology to apply cyber protections to devices connected to the internet, differing from other approaches that protect back-end server systems.
-- **Deep System Access:** CrowdStrike’s software requires deep access to a computer’s operating system to scan for threats.
 
 ### Resolution Steps for Users
 
