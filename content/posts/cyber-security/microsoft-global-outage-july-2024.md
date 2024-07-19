@@ -11,7 +11,8 @@ showTOC: false
 author: "Sai Kiran Reddy Appidi"
 ---
 ***
-# When the Cloud Fails: Inside Microsoft's Azure Outage and Its Far-Reaching Impact
+
+[//]: # (# When the Cloud Fails: Inside Microsoft's Azure Outage and Its Far-Reaching Impact)
 
 
 ## Unraveling the Incident
