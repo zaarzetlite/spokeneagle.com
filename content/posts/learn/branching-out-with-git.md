@@ -176,7 +176,7 @@ In short, Git went from a side project to a major player in software development
 ## Author: 
 
 <div id="authorCard" style="display: flex;align-items: center">
-    <img src="https://media.licdn.com/dms/image/D4D03AQHZCDpyf2gv7A/profile-displayphoto-shrink_400_400/0/1698767425558?e=1720656000&v=beta&t=HzPKv96-Tgt2cdQRzG94nquHEvDUeatY7umfGWyye2A" alt="Author Image" style="float: left; width: 100px; height: 100px;margin-right: 10px">
+    <img src="/authors/saikiran_appidi.jpeg" alt="Author Image" style="float: left; width: 100px; height: 100px;margin-right: 10px">
     <a href="https://www.linkedin.com/in/saikiranreddyappidi/" target="_blank" style="margin-left: 5%; display: block;">Sai Kiran Reddy Appidi</a>
 </div>
 
