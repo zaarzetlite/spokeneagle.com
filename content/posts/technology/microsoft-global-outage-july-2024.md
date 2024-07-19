@@ -104,6 +104,9 @@ Microsoft's immediate response involved:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re aware of an issue with Windows 365 Cloud PCs caused by a recent update to CrowdStrike Falcon Sensor software. This is being communicated under WP821561 in the admin center. (Cont...)</p>&mdash; Microsoft 365 Status (@MSFT365Status) <a href="https://twitter.com/MSFT365Status/status/1814250844319060219?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+_Here's what Microsoft CEO Satya Nadella said about the incident:_
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7220094835003731969" height="286" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ## What Happened with CrowdStrike? and The Solution
 
 ### The Incident
