@@ -3,7 +3,7 @@ title: "regreSSHion: A Critical Vulnerability in OpenSSH (CVE-2024-6387)"
 date: 2024-07-04T22:13:16+05:30
 draft: false
 cover:
-    image: /cyber-security/regreSSHion-openssh-vulnerability/regresshion-vulnerablity-1.png
+    image: /cyber-security/regreSSHion-openssh-vulnerability/regresshion-vulnerablity-1.jpg
     alt: "RegreSSHion-OpenSSH Vulnerability-cover image"
 tags: ["OpenSSH","regreSSHion","Exploit","Vulnerability"]
 categories: ["Cyber security","Learn","Technology"]
@@ -12,7 +12,7 @@ author: "Lokesh Koppineedi"
 ---
 ***
 
-## What is CVE-2024-6387?
+## What is CVE-2024-6387?  
 
 CVE-2024-6387, dubbed "regreSSHion," is a severe vulnerability in OpenSSH that allows remote code execution with root privileges. This vulnerability is a regression of CVE-2006-5051, reintroduced in OpenSSH 8.5p1 and present until 9.7p1.
 
