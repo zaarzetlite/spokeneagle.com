@@ -52,4 +52,11 @@ Every coin has two sides, right? Well, so does every concept, including the one 
 However, the MOJO community is experiencing steady growth each day, with continuous development of new features and resources on the horizon. There's no doubt that it will expand its offerings to provide even more options in the future.
 
 ---
-Written by [Mahalakshmi Sudheshna Garre](https://www.linkedin.com/in/mahalakshmi-sudheshna-garre-457b61227/)
+## Author:
+
+<div id="authorCard" style="display: flex;align-items: center">
+    <img src="https://www.spokeneagle.com/authors/mahalakshmi_sudheshna_garre.png" alt="Author Image" style="float: left; width: 100px; height: 100px;margin-right: 10px">
+    <a href="https://www.linkedin.com/in/mahalakshmi-sudheshna-garre-457b61227/" target="_blank" style="margin-left: 5%; display: block;">Mahalakshmi Sudheshna Garre</a>
+</div>
+
+---

@@ -69,7 +69,7 @@ By implementing a combination of these measures, the spread of the "I Love You" 
 ## Author:
 
 <div id="authorCard" style="display: flex;align-items: center">
-    <img src="https://www.spokeneagle.com/cyber-security/i-love-you-virus/author-image.png" alt="Author Image" style="float: left; width: 100px; height: 100px;margin-right: 10px">
+    <img src="https://www.spokeneagle.com/authors/mahalakshmi_sudheshna_garre.png" alt="Author Image" style="float: left; width: 100px; height: 100px;margin-right: 10px">
     <a href="https://www.linkedin.com/in/mahalakshmi-sudheshna-garre-457b61227/" target="_blank" style="margin-left: 5%; display: block;">Mahalakshmi Sudheshna Garre</a>
 </div>
 
