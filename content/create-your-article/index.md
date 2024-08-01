@@ -12,9 +12,11 @@ Welcome to the contributor's section of **spokeneagle.com**! We are excited to o
 
 Contributing to **spokeneagle.com** allows you to:
 
-- Engage with a wide audience that values diverse perspectives.
+[//]: # (- Engage with a wide audience that values diverse perspectives.)
 - Express your thoughts and share your expertise on topics you are passionate about.
 - Connect with a community of writers and readers who are eager to explore new ideas.
+- Receive a certificate for your contribution, which can be a valuable addition to your portfolio.
+- Benefit from a good reach for your article, increasing your visibility and helping you connect with a broader audience.
 
 ## Submission Guidelines
 
@@ -32,7 +34,7 @@ _You can also promote your social media handles, website, or blog in the author 
 To submit your article, follow these steps:
 
 1. **Prepare Your Article**: Make sure your article aligns with our guidelines.
-2. **Email Your Submission**: Send your article to [zaarzet@gmail.com](mailto:zaarzet@gmail.com) with the subject line "Article Submission".
+2. **Email Your Submission**: Send your article to [spokeneagle.root@gmail.com](mailto:spokeneagle.root@gmail.com) with the subject line "Article Submission".
 3. **Review Process**: Our editorial team will review your submission and respond within 2 days. If selected, we will discuss any necessary revisions and the publication schedule.
 
 ## What Happens Next?
