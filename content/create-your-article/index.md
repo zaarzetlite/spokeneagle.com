@@ -15,7 +15,7 @@ Contributing to **spokeneagle.com** allows you to:
 [//]: # (- Engage with a wide audience that values diverse perspectives.)
 - Express your thoughts and share your expertise on topics you are passionate about.
 - Connect with a community of writers and readers who are eager to explore new ideas.
-- Receive a certificate for your contribution, which can be a valuable addition to your portfolio.
+- Receive an e-certificate for your contribution, which can be a valuable addition to your portfolio.
 - Benefit from a good reach for your article, increasing your visibility and helping you connect with a broader audience.
 
 ## Submission Guidelines
