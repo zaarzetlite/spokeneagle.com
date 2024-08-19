@@ -32,12 +32,13 @@ Rafting is riding a river on an inflatable raft. It's a perfect combination of t
 
 Camping involves staying overnight in a tent, camper, or other temporary shelter. It might remind you of staying up late on the terrace, counting stars, and enjoying the moonlight. To avoid boredom during camping, consider bringing puzzles like Sequence, Jenga, Mikado, or UNO. Some tips for a successful camping trip include setting up your tent and testing your camping gear at home to ensure everything works. Wearing dresses with multiple layers makes it easier to adjust to changing temperatures throughout the day and night. Don’t forget your sleeping pads and campfire essentials!
 
-## Bungee Jumping
+## Hot Air Balloon
 <div style="position: relative;width: 100%;padding-top: 56.25%;margin-bottom: 5%">
-  <img src="https://cdn.pixabay.com/photo/2010/11/25/bungy-193_1280.jpg" alt="Bungee Jumping" style="position:absolute;top: 0;left: 0;width: 100%;height: 100%;object-fit: cover">
+  <img src="https://images.pexels.com/photos/210012/pexels-photo-210012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1/" alt="Hot Air Balloon" style="position:absolute;top: 0;left: 0;width: 100%;height: 100%;object-fit: cover">
 </div>
 
-Bungee jumping involves jumping from a hill or mountain. One of the top places in India for bungee jumping is Rishikesh, Uttarakhand. It might be scary to jump, but convince yourself to stay strong and take it easy—all your fears will disappear. Wear clothes that allow for movement and sturdy shoes with good grip. Arrive early to settle in and adapt to the atmosphere. Pay close attention to the safety briefing, where the jump master explains everything you need to know about the jumping position and safety protocols.
+A hot air balloon consists of a single-layer envelope filled with heated air and an open bottom. Attached to the envelope is a basket for carrying passengers. The burner injects the flame into the envelope, which is located between the envelope and the basket. Some love proposals have even happened in hot air balloons. Experience a hot air balloon ride in Rajasthan and enjoy the bird-eye view of the historic forts and palaces.
+
 
 ## Snorkeling
 <div style="position: relative;width: 100%;padding-top: 56.25%;margin-bottom: 5%">
@@ -46,6 +47,13 @@ Bungee jumping involves jumping from a hill or mountain. One of the top places i
 
 After seeing pictures of underwater life, you might feel the urge to explore the beauty beneath the waves. Snorkeling is a great way to do this. It allows you to swim near the surface while using a mask and snorkel to breathe. This simple activity lets you see vibrant marine life and colorful corals up close. One of the best places for snorkeling is the Andaman Islands. Fins help you swim more efficiently and with less energy. Snorkeling offers the opportunity to explore marine habitats firsthand, witnessing the vibrant underwater world with your own eyes. In some instances, you may even get to touch sea creatures gently.
 
+## Bungee Jumping
+<div style="position: relative;width: 100%;padding-top: 56.25%;margin-bottom: 5%">
+  <img src="https://cdn.pixabay.com/photo/2010/11/25/bungy-193_1280.jpg" alt="Bungee Jumping" style="position:absolute;top: 0;left: 0;width: 100%;height: 100%;object-fit: cover">
+</div>
+
+Bungee jumping involves jumping from a hill or mountain. One of the top places in India for bungee jumping is Rishikesh, Uttarakhand. It might be scary to jump, but convince yourself to stay strong and take it easy—all your fears will disappear. Wear clothes that allow for movement and sturdy shoes with good grip. Arrive early to settle in and adapt to the atmosphere. Pay close attention to the safety briefing, where the jump master explains everything you need to know about the jumping position and safety protocols.
+
 ## Skiing
 <div style="position: relative;width: 100%;padding-top: 56.25%;margin-bottom: 5%">
   <img src="https://images.unsplash.com/photo-1551698618-1dfe5d97d256?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Skiing" style="position:absolute;top: 0;left: 0;width: 100%;height: 100%;object-fit: cover">
@@ -53,11 +61,6 @@ After seeing pictures of underwater life, you might feel the urge to explore the
 
 When skiing, you use a pair of long, flat runners called skis that are attached to your shoes or boots to move across the snow. Jammu and Kashmir offer great skiing opportunities due to their height, allowing for lengthy descents. Some safety measures to remember include wearing sunscreen, a helmet, and goggles, warming up, and stretching. Control your speed, be able to stop, and avoid becoming overly tired while skiing.
 
-## Hot Air Balloon
-<div style="position: relative;width: 100%;padding-top: 56.25%;margin-bottom: 5%">
-  <img src="https://images.pexels.com/photos/210012/pexels-photo-210012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1/" alt="Hot Air Balloon" style="position:absolute;top: 0;left: 0;width: 100%;height: 100%;object-fit: cover">
-</div>
-A hot air balloon consists of a single-layer envelope filled with heated air and an open bottom. Attached to the envelope is a basket for carrying passengers. The burner injects the flame into the envelope, which is located between the envelope and the basket. Some love proposals have even happened in hot air balloons. Experience a hot air balloon ride in Rajasthan and enjoy the bird-eye view of the historic forts and palaces.
 
 ## Other Snow Adventures
 
